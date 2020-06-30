@@ -6,3 +6,6 @@ Diese Webseite wird in Rahmen des OPEN-HPI Kurses erstelt. Dazu wird die Nutzung
 * GitHub
 * Clone Repo
 * Pull Request
+
+So wie alle schon wissen:
+> Uebung macht den Meister.
