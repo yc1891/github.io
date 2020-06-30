@@ -9,3 +9,5 @@ Diese Webseite wird in Rahmen des OPEN-HPI Kurses erstelt. Dazu wird die Nutzung
 
 So wie alle schon wissen:
 > Uebung macht den Meister.
+
+<img src="https://cdn1.vogel.de/unsafe/800x0/smart/images.vogel.de/vogelonline/bdb/1353200/1353221/original.jpg"/>
